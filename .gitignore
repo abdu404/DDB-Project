@@ -1,0 +1,12 @@
+# Go build
+*.exe
+*.test
+*.out
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Dependencies
+vendor/
